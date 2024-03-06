@@ -11,7 +11,7 @@ h1 {
     color: orange;
     text-align: center;
     font-size: 80 px;
-
+    font-family: 'Honk';
 }
 canvas {
     display:block;
