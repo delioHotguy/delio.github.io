@@ -9,11 +9,15 @@ html{
         background-size: cover;
         background-repeat: no-repeat;
     }
+    blockquote {
+        background-color: aliceblue;
+    }
     h1{
     font-family: 'Truculenta';
     text-align: center;
     font-size: 60px;
     line-height: 20px;
+    background-color: aliceblue;
     }
     img {
     align-items: center;
@@ -21,9 +25,4 @@ html{
     }
     video {
     height: 500px;
-    
-    }
-    hr{
-    color: black;
-    
     }
