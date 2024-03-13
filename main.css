@@ -1,3 +1,4 @@
+
 html{
     display: flex;
     text-align: center;
@@ -6,11 +7,14 @@ html{
     }
     body{
         background-image: url("cAT\ BLANKEY\ BACKGROUND.png") ;
-        background-size: cover;
-        background-repeat: no-repeat;
+        background-size: contain;
+        background-repeat: repeat-y;
     }
     blockquote {
         background-color: aliceblue;
+    }
+    p{
+        color: black;
     }
     h1{
     font-family: 'Truculenta';
