@@ -1,19 +1,18 @@
     body{
-        background-image: url("cAT\ BLANKEY\ BACKGROUND.png") ;
-        background-size: contain;
-        background-repeat: repeat-y;
+    background-color: rgb(13, 13, 17);
     }
     blockquote {
-        background-color: aliceblue;
+    background-color: aliceblue;
     }
     p{
-        font-size: 40px;
-        color: black;
+    font-family: 'Truculenta';
+    font-size: 40px;
+    color: black;
     }
     h1{
     font-family: 'Truculenta';
     text-align: center;
-    font-size: 60px;
+    font-size: 100px;
     line-height: 20px;
     background-color: aliceblue;
     }
