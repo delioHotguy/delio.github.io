@@ -4,6 +4,11 @@ html{
     justify-content: center;
     align-items: center;
     }
+    body{
+        background-image: url("cAT\ BLANKEY\ BACKGROUND.png") ;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
     h1{
     font-family: 'Truculenta';
     text-align: center;
